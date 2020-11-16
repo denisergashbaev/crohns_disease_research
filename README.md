@@ -4,3 +4,4 @@
 
 * [Research findings](research.md)
 
+* [Inspiring thoughts](inspiring_thoughts.md)
