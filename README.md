@@ -5,3 +5,5 @@
 * [Research findings](research.md)
 
 * [Inspiring thoughts](inspiring_thoughts.md)
+
+Areas to consider: yoga, psychedelics, traditional indian medicine, acupuncture, 
