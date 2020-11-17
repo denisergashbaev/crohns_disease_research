@@ -6,4 +6,4 @@
 
 * [Inspiring thoughts](inspiring_thoughts.md)
 
-Areas to consider: yoga, psychedelics, traditional indian medicine, acupuncture, 
+Areas to consider: yoga, psychedelics, traditional indian medicine, acupuncture, ... anything really :)
